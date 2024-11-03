@@ -1,0 +1,105 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    padding: 50px;
+    display: grid;
+    gap: 20px;
+}
+
+.name{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: grid;
+    gap: 10px;
+}
+
+.name h1{
+    font-size: 50px;
+}
+
+.name p{
+    font-size: 25px;
+}
+
+.name a{
+    border: 1px solid black;
+    padding: 4px;
+    background-color: orangered;
+    color: white;
+    width: 50px;
+    text-decoration: none;
+}
+
+.about{
+    display: grid;
+    gap: 10px;
+}
+
+.interest{
+    background-color : blueviolet;
+    padding: 20px;
+    display: inline-block;
+    width: 180px;
+    height: 200px;
+    border-radius: 5px;
+}
+.interest ul{
+    list-style: none;
+    margin-top: 15px;
+}
+
+.projects{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.projects ul{
+    list-style: none;
+}
+
+.one{
+    margin-bottom: 20px;
+}
+
+.projects li{
+    margin-bottom: 15px;
+}
+
+.flex{
+    display: flex;
+    gap: 15px;
+}
+
+.connect{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.connect-1{
+    display: flex;
+    gap: 15px;
+}
+
+.connect-1 a{
+    color: skyblue;
+}
+
+.connect{
+    display: grid;
+    gap: 10px;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.total{
+    padding: 40px;
+    display: grid;
+    gap: 15px;
+}
+
+.sec-1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: grid;
+    gap: 15px;
+}
+
+
+.sec-1 a{
+    border: 1px solid orangered;
+    width: 40px;
+    color: white;
+    padding: 5px;
+    background-color: orangered;
+    text-decoration: none; 
+}
+
+.sec-2 input{
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   margin: 15px;
+}
+
+.sec-2 textarea{
+    margin: 15px;
+}
+
+.sec-2 button{
+    background-color: orangered;
+    color: black;
+    padding: 5px;
+    margin-left: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sec-3{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: grid;
+    gap: 15px;
+}
+
+.sec-3 a{
+    color: skyblue;
+}
+
+
+
+
+
+
+
+
+
